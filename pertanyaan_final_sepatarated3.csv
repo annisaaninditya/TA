@@ -1,0 +1,301 @@
+Number,Label,Pertanyaan
+1,low_order,Jika program di atas dijalankan maka akan menghasilkan keluaran?
+2,low_order,Apa itu module dan package pada python?
+3,low_order,Apa itu tipe data primitif?
+4,low_order,Berikut cara menampilkan seluruh data pada array! Buatkan pseudocodenya!
+5,low_order,"Berikut merupakan  pseudocode dari membuat metode push dengan parameter bertipe data int, Increment variabel top, Memasukkan data dari parameter ke dalam array dengan Index paling atas."
+6,high_order,Tuliskan hasil yang dikembalikan oleh metode misetery untuk kondisi berikut ini;
+7,low_order,Apa kepanjangan dari SQL?
+8,low_order,Berikan 5 manfaat menggunakan python!
+9,low_order,Apa tipe bawaan yang disediakan python?
+10,high_order,Bagaimana anda menyalin objek dengan python?
+11,low_order,Kenapa bentuk lamda dalam python tidak memiliki pernyataan?
+12,high_order,"Dengan SQL, bagaimana Anda memilih kolom  ""NamaDepan"" dari tabel  ""Orang""?"
+13,high_order,Bagaimana mengonversi angka menjadi string?
+14,high_order,Jelaskan bagaimana mendapatkan angka acak pada python?
+15,high_order,"Dengan SQL, bagaimana Anda memilih semua catatan dari tabel ""Orang"" di mana nilai kolom ""NamaDepan"" dimulai dengan ""a""?"
+16,low_order,OR digunakan untuk menampilkan catatan jika kondisi ANY digunakan untuk mencantumkan yang benar. AND menampilkan catatan dan jika ALL kondisi yang tercantum adalah benar. Pernyataan berikut benar atau salah?
+17,low_order,Apa itu index negatif pada python?
+18,low_order,Sebutkan penggunaan fungsi split dalam Python?
+19,low_order,Pernyataan SQL mana yang digunakan untuk mengembalikan hanya nilai yang berbeda?
+20,low_order,Kata kunci SQL apa yang digunakan untuk mengurutkan hasil-set?
+21,high_order,Jelaskan apa itu efek Dogpile? Bagaimana cara untuk mencegah efek ini?
+22,low_order,Tulis program Python untuk menghapus layar atau terminal pada python
+23,low_order,Tulis program Python untuk menghapus item pertama dari daftar yang ditentukan!
+24,high_order,"Bagaimana Anda bisa mengubah ""Hansen"" menjadi ""Nilsen"" di kolom ""NamaBelakang"" di tabel Orang?"
+25,high_order,"Dengan SQL, bagaimana Anda bisa menghapus catatan di mana ""NamaDepan"" adalah ""Peter"" di Tabel Orang?"
+26,high_order,"Dengan SQL, bagaimana Anda bisa mengembalikan jumlah catatan di tabel ""Orang""?"
+27,high_order,"Buatlah program lengkap yang dapat menampung nilai yang dimasukkan pengguna. Selanjutnya, program akan memerisa kondisi pertama (x > 0). jika x lebih besar dari nol maka program akan mengeksekusi statemen pertama yaitu bagian if. Jika x tidak lebih besar dari nol, maka program akan eksekusi dengan memeriksa kondisi kedua (x == 0). Jika x bernilai nol maka program akan mengeksekusi statemen bagian elif. Jika x tidak sama dengan nol, maka statemen yang akan dieksekusi adalah statemen yang terdapat di bagian else. "
+28,low_order,Yang mana yang digunakan untuk memilih nilai dalam suatu rentang?
+29,high_order,"Buatlah program lengkap untuk menentukan pendapatan maksimum penjual kue jika ia mempunya 8kg tepung dan 2kg pasir dan ingin membuat 2 buah kue dadar dan kue apem.  Bahan yang digunakan untuk membuat kue dadar yaitu: 10 gram gula pasir dan 20 gram tepung, sedangkan kue apem membutuhkan 5gr gula pasir dan 50gr tepung. Kue dadar yang dia jual seharga Rp. 300/buah dan kue apem seharga Rp. 500/buah."
+30,high_order,Buatlah program lengkap dengan python untuk mengirim email dengan lampiran
+31,low_order,Pernyataan SQL mana yang digunakan untuk membuat tabel dalam data Base?
+32,low_order,Panjang array dapat dihitung dengan cara 
+33,low_order,"Berikut yang menggunakan tipe data referen adalah, kecuali"
+34,high_order,"Bagaimana menentukan bilangan bulat, long dan float dari yang terbesar dan terkecil?"
+35,high_order,Bagaimana menjumlahkan angka dalam list?
+36,low_order,Pendeklarasian array yang benar di bawah ini adalah
+37,low_order,Tujuan penggunaan dari array adalah 
+38,low_order,"Dalam mengakses setiap elemen yang terdapat dalam array dapat menggunakan, kecuali "
+39,low_order,Nama metode yang sesuai untuk fungsi kode program berikut adalah 
+40,high_order,Proses yang ditangani array ketika bekerja dengan sebuah struktur data antara lain adalah 
+41,low_order,Gambar di atas adalah ilustrasi dari metode
+42,low_order,apakah output dari program di atas
+43,low_order,Apakah yang dimaksud dengan linked list
+44,low_order,Jika kita menambahkan link baru di depan pada sebuah linked list maka
+45,low_order,Metode diatas dapat digunakan untuk mengecek
+46,high_order,Bagaimana cara yang benar untuk menulis alamat dalam dokumen HTML?
+47,high_order,Bagaimana cara mendefinisikan keterangan tabel?
+48,high_order,Bagaimana cara menentukan daftar opsi yang telah ditentukan untuk kontrol input?
+49,high_order,Bagaimana cara menentukan bagian dalam dokumen?
+50,low_order,Penggunaan Class node dalam linked list adalah
+51,low_order,Sebutkan kepanjangan dari LIFO
+52,high_order,Tuliskan program python yang digunakan untuk memasukkan dua bilangan bulat dalam satu baris.
+53,high_order,Bagaimana cara untuk mengubah desimal menjadi heksadesimal?
+54,low_order,Manakah metode yang digunakan untuk memasukkan data ke dalam sebuah stack
+55,high_order,Tuliskan program python yang digunakan untuk memeriksa apakah variabel bilangan bulat atau string
+56,high_order,"Anda memiliki urutan angka, tentukan cara untuk mengurutkan angka dari minimum sampai maksimum"
+57,low_order,Berikut ini adalah ciri-ciri dari Priority Queue
+58,low_order,Program di atas akan mengeluarkan output
+59,low_order,"Berikut ini adalah potongan dari program priority queue. Jika prioritas tertinggi adalah untuk elemen yang memiliki nilai paling besar, maka output yang benar adalah"
+60,low_order,"Berikut yang menggunakan tipe data reference adalah, Kecuali"
+61,low_order,Gambar di atas adalah ilustrasi dari metode
+62,low_order,Jelaskan apa yang dilakukan oleh methodA dan methodB di atas serta perbedaannya
+63,high_order,Tuliskan urutan hasil yang dikeluarkan apabila metode dijalankan dan ditampilkan dari indeks ke 0 sampai elemen terakhir array secara berurut:
+64,low_order,apa perbedaan linear search dengan binary search. Jelaskan
+65,low_order,"mengapa proses Insert data pada array terurut lebih lambat jika dibandingkan pada array tidak terurut sedangkan sebaliknya, proses pencarian pada array terurut lebih cepat jika dibandingkan dengan array tidak terurut?"
+66,low_order,"Apa perbedaan stack, queue dan priority queue. Jelaskan "
+67,low_order,Jelaskan masing-masing metode di atas (insertA dan insertB) merupakan milik struktur data yang mana? Jelaskan Perbedaannya!
+68,low_order,Gambarkan proses menambahkan elemen temp pada kedua metode diatas pada struktur datanya masing-masing.
+69,high_order,Bagaimana cara mendefinisikan item daftar?
+70,high_order,bagaimana memperbaiki program tersebut agar yang dihapus adalah link yang pertama dari link list?
+71,high_order,Tuliskan output dari program tersebut?
+72,high_order,"Buatlah UNF dari gambar fraktur pembelian pelanggan dari sebuah toko elektronik anti curang di mana terekam tanggal, info produk yang dibeli, data pelanggan, dan data pramuniaga yang melayani di dalam fraktur tersebut."
+73,high_order,"Buatlah Normalisasi sampai dengan bentuk 3NF dari gambar fraktur pembelian pelanggan dari sebuah toko elektronik anti curang di mana terekam tanggal, info produk yang dibeli, data pelanggan, dan data pramuniaga yang melayani di dalam fraktur tersebut. Dan berikan penjelasan untuk langkah-langkah konversi dari fraktur menjadi bentuk UNF sampai 3NF"
+74,high_order,Buatlah  program dalam Python untuk menghitung jumlah semua kelipatan 3 atau 5 di bawah 500
+75,high_order,Buatlah program python untuk menemukan perbedaan antara jumlah kuadrat dari dua ratus bilangan pertama dan kuadrat dari jumlah tersebut.
+76,high_order,"Buatlah program dalam Python di mana Anda mengambil bilangan bulat positif n, jika n genap, bagilah dengan 2 untuk mendapatkan n / 2. Jika n ganjil, maka menggandakan dengan 3 dan tambahkan 1 untuk mendapatkan 3n + 1. Ulangi proses sampai Anda mencapai 1"
+77,low_order,Carilah definisi dan contoh yang tepat untuk masing-masing keyword.
+78,low_order,Keyword yang digunakan untuk membuat nilai tetap dan tidak dapat berubah adalah
+79,low_order,dari statement berikut ini manakah baris pertanyaan yang tidak valid
+80,low_order,jika nilai variabel c ditampilkan ke layar akan menghasilkan nilai  
+81,low_order,Metode yang digunakan untuk membandingkan dua buah data string adalah
+82,high_order,"Buatlah program lengkap untuk iterasi bilangan bulat dari 1 hingga 50. Untuk kelipatan tiga cetak ""Fizz"" bukan nomor dan untuk kelipatan lima cetak ""Buzz"". Untuk angka yang merupakan kelipatan dari tiga dan lima cetak ""FizzBuzz""."
+83,low_order,jika baris ke-4 pada program diatas diubah menjadi -x+2*x*++x; maka akan menghasilkan keluaran 
+84,low_order,"suatu metode yang dapat dijalankan otomatis pada saat object dari class dibuat, dikenal dengan"
+85,high_order,"Tuliskan perintah untuk menjumlahkan dua bilangan bulat yang diberikan. Namun, jika jumlahnya antara 15 hingga 20 akan menghasilkan 20"
+86,high_order,"Buatlah program untuk mengetahui sebuah segitiga sama sisi, sama kaki atau sama sisi."
+87,high_order,Tuliskan code program Python untuk menemukan bilangan prima ke-1000.
+88,high_order,Tuliskan perintah untuk mendapatkan string yang terbuat dari tiga karakter pertamanya dari string yang ditentukan. Jika panjang string kurang dari 3 maka kembalikan string asli.
+89,low_order,cara pemanggil konstruktor superclass adalah subclass yang benar adalah
+90,high_order,Tuliskan code program Python untuk menemukan angka segitiga pertama yang memiliki lebih dari n (diberikan) pembagi
+91,high_order,"Tuliskan code program Python untuk menemukan nomor awal, di bawah sepuluh ribu akan membuat rantai terpanjang"
+92,high_order,Tuliskan code program Python untuk menemukan indeks istilah pertama dalam deret Fibonacci yang berisi 500 digit.
+93,high_order,"Buatlah tabel Pivot dan temukan tingkat kelangsungan hidup berdasarkan jenis kelamin, usia berbagai kategori dari berbagai kelas. Tambahkan tarif sebagai dimensi kolom dan kolom tarif partisi ke dalam 2 kategori berdasarkan nilai yang ada di kolom tarif"
+94,high_order,"Buatlah tabel Pivot dan temukan kemungkinan bertahan hidup berdasarkan kelas, jenis kelamin, naik pesawat sendiri, dan pelabuhan keberangkatan."
+95,high_order,Tuliskan code program Pandas untuk menggunakan data excel (employee.xlsx) ke dalam kerangka data Pandas dan temukan daftar karyawan tempat menyewa_tanggal antara dua bulan dan tahun tertentu.
+96,high_order,Tuliskan perintah untuk menghitung jumlah bilangan genap dan ganjil dari serangkaian angka.
+97,high_order,Tuliskan perintah untuk mencetak semua angka dari 0 hingga 6 kecuali 3 dan 6.
+98,low_order,Buat program python untuk memeriksa validitas input kata sandi oleh pengguna.
+99,high_order,"Buatlah program lengkap untuk membuat mainan yang digunakan untuk meramal atau mencari sara. Dalam program tersebut dapat mengizinkan pengguna untuk memasukkan pertanyaan mereka, menampilkan pesan yang sedang dalam proses, membuat 10/20 tanggapan, dan menampilkannya secara acak, mengizinkan pengguna untuk mengajukan pertanyaan/saran lain, dan keluar dari game."
+100,high_order,"Buatlah program lengkap yang digunakan untuk menulis setiap baris lagu ""99 bottles of beer on the wall"". "
+101,high_order,Buatlah program lengkap untuk menebak angka yang dipilih secara acak.
+102,high_order,"membuat dan menampilkan seri boolean, di mana Benar untuk tidak nol dan Salah untuk nilai nol atau nilai yang hilang di kolom state_province file lokasi"
+103,high_order,Tuliskan perintah untuk menemukan angka antara 100 dan 400 (keduanya termasuk) di mana setiap digit angka adalah angka genap. Angka-angka yang diperoleh harus dicetak dalam urutan yang dipisahkan koma
+104,high_order,Buatlah program lengkap untuk menghitung usia anjing dalam tahun anjing.
+105,high_order,Tuliskan code program python untuk memeriksa apakah alfabet adalah vokal atau konsonan
+106,high_order,"Tuliskan code program python untuk menampilkan nama depan, nama belakang, gaji, dan nomor departemen untuk karyawan yang nama depannya diakhiri dengan huruf 'm'"
+107,high_order,"Buatlah program untuk menampilkan nama depan, nama belakang, gaji dan nomor departemen untuk karyawan yang nama depannya diakhiri dengan huruf 'd' atau 'n' atau 's' dan juga mengatur hasilnya dalam urutan menurun dengan nomor departemen"
+108,high_order,"Tuliskan perintah untuk menghitung jumlah dua bilangan bulat yang diberikan. Namun, jika jumlahnya antara 15 hingga 20 akan menghasilkan 20."
+109,high_order,Bagaimana cara menghapus beberapa spasi dalam sebuah string
+110,high_order,Anda memiliki dua dataset dengan pemetaan banyak ke satu. Anda mencoba untuk menggabungkan kedua dataset menggunakan pernyataan Penggabungan Data (setelah mengurutkan pada kunci). Tuliskan outputnya
+111,low_order,Apa perbedaan antara: impor sklearn dan from sklearn import datasets
+112,low_order,Manakah dari berikut ini yang bukan struktur data yang valid dalam Python?
+113,low_order,Manakah dari library berikut yang merupakan kombinasi penggunaannya salah?
+114,low_order,Manakah dari teknik statistik berikut ini yang tidak dapat diimplementasikan pada R?
+115,low_order,Sebutkan perintah-perintah yang terdapat pada algoritma Python
+116,low_order,Apa itu proses dari data science?
+117,low_order,Apa saja fitur utama dari Python?
+118,low_order,"Perintah SQL untuk menampilkan nama_proyek, nama_resource dan annual_salary yang paling tepat adalah:"
+119,high_order,Tuliskan macam-macam modul yang ada di python
+120,low_order,Apa itu tipe konversi dalam python
+121,high_order,Bagaimana Anda menulis komentar dengan python?
+122,high_order,Bagaimana Anda menggunakan huruf besar dari string pertama?
+123,high_order,Bagaimana cara mengomentari banyak baris dengan python?
+124,high_order,Bagaimana cara menghapus file dengan Python?
+125,high_order,Tuliskan program untuk menemukan jumlah pembagi bilangan bulat yang diberikan adalah genap atau ganjil
+126,high_order,Bagaimana menghitung panjang string?
+127,high_order,Bagaimana menghapus line baru pada python?
+128,high_order,Bagaimana memeriksa apakah string dimulai dengan karakter yang spesial atau tidak
+129,low_order,"terdapat dari mana pengubah akses berarti sebuah field dapat diakses dalam class yang sama, Class dalam package dan sublass yang sama dalam aplikasi kalian?"
+130,low_order,field mana yang tidak dapat diganti setelah objek telah disusun?
+131,low_order,Teknik apa di Java di mana class terdapat nomor apa pun dari metode yang berbeda dalam daftar parameter?
+132,high_order,Tuliskan perintah untuk membaca angka positif terkecil yang dapat habis dibagi semua angka dari 1 hingga 30
+133,low_order,objek real-word berisi tentang?
+134,low_order,Buatlah flowchart dari program diatas?
+135,high_order,Tuliskan perintah untuk mendapatkan dua bilangan bulat yang mewakili bulan dan hari dan mencetak musim untuk bulan dan hari itu.
+136,high_order,Buatlah program lengkap untuk menghitung perkalian dari sebuah angka
+137,low_order,Jelaskan apa yang dilakukan oleh pihak blok program beliau?
+138,high_order,"Tuliskan program yang dapat menambahkan 'ing' di akhir string yang diberikan (panjangnya harus minimal 3). Jika string yang diberikan sudah berakhir dengan 'ing' maka tambahkan 'ly' sebagai gantinya. Jika panjang string dari string yang diberikan kurang dari 3, biarkan tidak berubah"
+139,high_order,"Tuliskan perintah untuk membangun pola segitiga, menggunakan nomor loop bersarang."
+140,high_order,"identifikasi 8 baris kesalahan (BUKAN 8 kesalahan) yang ada pada kodingan tebak angka di bawah ini. Caranya, tulis ulang baris yang salah dan tulis ulang pembetulannya."
+141,high_order,Buatlah program lengkap untuk menghitung Magic Square 
+142,high_order,"Buatkan diagram class untuk menggambarkan relasi dari sebuah sistem informasi akademik yang terdapat dosen dan mata kuliah, di mana setiap dosen dapat  mengajar lebih dari satu mata kuliah dan setiap mata kuliah hanya dipegang oleh satu orang dosen."
+143,low_order,Buat program dalam bahasa pemrograman Java yang mengimplementasikan diagram class di mana output program yang diharapkan adalah  muncul tulisan pada layar monitor sebagai berikut.
+144,low_order,"Lengkapilah metode ""cocok di bawah ini yang memiliki parameter berupa array integer. Metode ini mengembalikan nilai boolean true jika jumlah elemen array nya minimal 1 dan nilai dari elemen pertamanya sama dengan elemen terakhirnya"
+145,low_order,Jelaskan apa yang dilakukan oleh metode misteri diatas!
+146,high_order,Tuliskan hasil yang dikembalikan metode misteri di atas untuk kondisi-kondisi berikut:
+147,high_order,"Soal berikut adalah untuk struktur data array terurut. Apabila diketahui pengurutan array terdapat pada fungsi Insert sebagai berikut, Bagaimana hasil tampilan aplikasi apabila bilangan disisipkan dengan urutan 5,2,1,7,4?"
+148,high_order,Bagaimana cara mengembalikan urutan tampilan dengan mengubah metode Insert di atas?
+149,low_order,"apabila diketahui fungsi pencarian sebelumnya adalah menggunakan binary search sebagai berikut, bagian mana yang harus diubah untuk menyesuaikan dengan perubahan urutan array pada soal b?"
+150,low_order,"terdapat dari mana pengubah akses berarti sebuah field dapat diakses dalam class yang sama, Class dalam package dan sublass yang sama dalam aplikasi kalian?"
+151,low_order,"Jika diketahui program sebagai berikut, maka tempatkan referensi A, B, X dan Y pada kotak-kotak yang disediakan apabila metode insert di atas diinginkan untuk memasukkan data baru di awal list (Insert first)!"
+152,high_order,Tuliskan perintah untuk mengambil daftar kata dan mengembalikan panjang kata yang terpanjang
+153,low_order,"Fungsi di bawah ini merupakan fungsi protokol HTTP, kecuali:"
+154,low_order,"Pada TCP/IP, http protokol berada pada lapisan"
+155,high_order,Buatlah program lengkap yang dapat menentukan nilai palindrome sebelumnya dan nilai palindrome terkecil berikutnya dari yang dimasukkan oleh pengguna
+156,high_order,Bagaimana mengimport modul dalam python?
+157,high_order,Bagaimana class dibuat dalam python?
+158,low_order,Apakah python mendukung multiple inheritance?
+159,low_order,Apa itu Polimorfisme dalam Python?
+160,low_order,http://www.ittelkom.ac.id/web-app/igracias/nilai.html merupakan contoh:
+161,low_order,"untuk mendapatkan nama domain ke IP Address di internet, digunakan layanan"
+162,high_order,Tuliskan perintah untuk menghitung jarak antara dua titik menggunakan lintang dan bujur
+163,high_order,Bagaimana cara membuat kelas kosong dengan Python?
+164,low_order,Apa yang dilakukan objek ()?
+165,high_order,Tuliskan perintah untuk membuat series Fibonacci dalam python?
+166,high_order,Tuliskan perintah untuk memeriksa jika sebuah angkat itu merupakan angka primer
+167,low_order,"desain tabel pada tag HTML berkorelasi dengan desain tabel pada data Base, contoh korelasinya adalah"
+168,low_order,"diasumsikan jumlah record pada satu tabel data Base mahasiswa SI 30 adalah 246, dengan jumlah field adalah 16, Maka:"
+169,high_order,Tuliskan perintah untuk menghitung luas poligon reguler
+170,high_order,Tuliskan perintah untuk menemukan akar fungsi kuadratik.
+171,low_order,di bawah ini yang merupakan atribut tag HTML yang salah untuk menampilkan gambar adalah
+172,high_order,Tuliskan perintah untuk memeriksa apakah urutannya adalah Palindrome
+173,high_order,Tuliskan perintah yang dapat mengonversi angka desimal menjadi angka biner
+174,high_order,"Tuliskan cara jika anda ingin membuat objek Panah baru, mewakili ""lantai"" rentang waktu dari objek Arrow dalam kerangka waktu tertentu menggunakan modul panah. Kerangka waktu dapat berupa properti datetime seperti hari, jam dan menit. "
+175,high_order,Bagaimana cara untuk menghitung jumlah geometrik n-1
+176,high_order,Tuliskan algoritma pengurutan untuk dataset numerik dengan Python.
+177,high_order,Buatlah program lengkap yang dapat menghitung luas dimensi bangunan
+178,high_order,Bagaimana cara untuk  menghitung nilai 'a' pada 'b'.
+179,low_order,HTML form tidak kelihatan untuk user:
+180,low_order,"pada HTML form, tag <input> berpasangan:"
+181,low_order,untuk menampilkan password textfield maka digunakan:
+182,low_order,"di bawah ini adalah pernyataan yang benar, kecuali"
+183,low_order,"kesalahan testing pada dokumen HTML, dapat diartikan menggunakan contoh berikut:"
+184,low_order,atribut form yang menentukan metode untuk mengirimkan adalah:
+185,high_order,Bagaimana cara untuk menemukan pembagi umum terbesar (gcd) dua bilangan bulat
+186,low_order,Metode POST tidak memiliki ciri seperti di bawah kecuali:
+187,low_order,"isi paket data http re-quest-response di bawah ini, dapat disusun tag HTML asalnya sebagai berikut:"
+188,high_order,tuliskan cuplikan skrip program untuk membuat popup dialog seperti pada gambar di bawah ini:
+189,low_order,"buatlah sebuah class Java dengan nama hubungkan, class berfungsi untuk melakukan pemanggil di drive dan koneksi ke data Base server MySQL, dengan spesifikasi nama host localhost, Port default 3370, nama data Base pegawai, nama user perusahaanku dan password untung"
+190,low_order,Berdasarkan skrip program di bawah tentukan output program jika user memasukkan angka A
+191,high_order,Tuliskan program untuk menghapus semuanya kecuali karakter alfanumerik dari string
+192,low_order,"Dari gambar diatas selesaikanlah soal di bawah ini, buatlah skrip program, untuk tombol Hitung Gaji. Di mana tombol ini apabila diklik akan melakukan beberapa proses perhitungan seperti; Gaji Pokok, Tunjangan anak, Tunjangan istri, dan Total Gaji."
+193,high_order,Tuliskan perintah untuk tombol Simpan. Di mana tombol ini apabila diklik akan melakukan proses penyimpanan seluruh data ke dalam data base yang bernama HRD dan nama tabel pegawai. Setelah proses penyimpanan data selesai maka data muncul pada form dibersihkan sehingga form siap untuk melakukan proses lain.
+194,high_order,"Tuliskan perintah untuk tombol Edit. Di mana tombol ini apabila diklik akan melakukan proses edit data, di mana user harus memasukkan dahulu NIP pegawai yang akan diedit kemudian sistem akan memunculkan seluruh data sesuai dengan NIP yang dimaksud, selanjutnya proses pengeditan dapat dilakukan"
+195,high_order,"Tuliskan perintah untuk tombol Hapus. Di mana tombol ini apabila diklik akan melakukan proses penghapusan, di mana user harus memasukkan dahulu NIP pegawai yang akan dihapus, kemudian sistem akan memunculkan seluruh data sesuai dengan NIP yang dimaksud, selanjutnya proses pengeditan dapat dilakukan"
+196,low_order,"Dari perintah-perintah SQL di atas, mana saja yang termasuk DDL (Data Definition Language)"
+197,high_order,Tuliskan program untuk mengkonversi true ke 1 dan false ke 0
+198,high_order,Bagaimana melihat daftar semua nama bahasa dan jumlah artikel terkait dalam urutan yang muncul di wikipedia.org
+199,high_order,Bagaimana cara untuk menemukan apakah mengandung urutan aditif atau tidak
+200,high_order,Bagaimana cara untuk memeriksa urutan angka adalah perkembangan aritmatika atau tidak
+201,low_order,Perintah SQL untuk membuat tabel resource_pool adalah:
+202,low_order,Perintah SQL untuk memasukkan data pada tabel resource_pool adalah:
+203,high_order,Tuliskan perintah Python untuk membalikkan angka integer.
+204,high_order,Bagaimana cara untuk memeriksa urutan angka adalah perkembangan geometris atau tidak
+205,low_order,perintah SQL untuk menampilkan total annual_mAndays untuk masing-masing proyek pada tabel proyek_resource seperti pada tampilan berikut adalah:
+206,high_order,Bagaimana perintah SQL untuk menampilkan total berapa kali masing-masing Resource digunakan pada tabel alokasi_waktu. Data yang ditampilkan hanya untuk yang lebih besar dari 1 seperti pada tampilan berikut:
+207,high_order,Bagaimana perintah SQL untuk menampilkan total berapa kali masing-masing proyek pada tabel proyek_aktivitas. Data yang ditampilkan seperti pada tampilan berikut
+208,low_order,Manakah dari berikut ini yang mewakili logical query processing order dari beberapa query di bawah ini?
+209,low_order,Manakah dari pernyataan berikut yang merupakan search argumen? 
+210,low_order,jelaskan apa itu Flask dan manfaatnya
+211,low_order,"Sebutkan perbedaan antara Django, Pyramid dan Flask."
+212,low_order,Manakah dari pernyataan berikut ini akan menghasilkan daftar semua data Base dengan nama yang diawali dengan 'pro'?
+213,high_order,"Dalam non-strict mode, diasumsikan tabel City tidak ada dan kalian menjalankan perintah: CREATE TABEL City (city_name CHAR(5));INSERT INTO City (city_name) VALUES ('NEW YORK'), ('TOKYO'), (23+345), ('LONDON') Data apa yang sekarang tersimpan?"
+214,low_order,Perhatikan perintah SQL berikut: Apa yang akan dihasilkan dari perintah diatas?
+215,low_order,Anda bekerja sebagai Data Base Administrator untuk PT. XYZ. Anda membuat tabel Employees dengan Index emp_index. Anda menemukan kasus Index tidak bekerja dengan benar dan Anda harus menghapusnya. Manakah dari pernyataan berikut ini yang bisa Anda gunakan untuk menyelesaikan masalah ini?
+216,low_order,Manakah dari sintak di bawah ini yang akan digunakan oleh  user untuk menghapus data Base di MySQL?
+217,high_order,Bagaimana cara ntuk mendapatkan nomor Hamming hingga nomor yang diberikan juga memeriksa apakah nomor yang diberikan adalah nomor Hamming.
+218,low_order,Anda bekerja sebagai Administrator Data Base untuk Perusahaan Inc Perusahaan menggunakan MySQL sebagai Data Base. Anda telah menulis pernyataan MySQL berikut untuk menghitung gaji karyawan:
+219,low_order,Anda Bekerja sebagai Data Base Administrator untuk PT. XYZ. Anda menulis kode berikut untuk membuat sebuah View:
+220,low_order,Setelah dijalankan kode tersebut ternyata terjadi kesalahan. Manakah pernyataan berikut di bawah ini yang merupakan penyebab kesalahan pada View tersebut?
+221,high_order,Tuliskan perintah untuk menemukan elemen mayoritas dalam daftar
+222,high_order,Tuliskan perintah untuk menambahkan dua angka biner
+223,high_order,Tuliskan perintah untuk memeriksa apakah suatu nomor dapat dibagi dengan nomor lain. Terima dua nilai integer dari pengguna.
+224,high_order,Tuliskan perintah untuk  menemukan nomor tunggal yang terjadi angka ganjil dan angka genap
+225,high_order,Bagaimana cara untuk menghitung jumlah dari istilah yang bernilai sama dalam urutan Fibonacci yang nilainya tidak melebihi satu juta.
+226,high_order,Bagaimana cara untuk menemukan angka positif terkecil yang dapat habis dibagi semua angka dari 1 hingga 30
+227,high_order,Bagaimana cara untuk menemukan perbedaan antara jumlah kuadrat dari dua ratus bilangan asli pertama dan kuadrat dari jumlah.
+228,high_order,"Tuliskan program untuk mencari angka awal, di bawah sepuluh ribu yang akan menciptakan rantai terpanjang"
+229,low_order,suatu metode yang sama namun memiliki parameter yang berbeda yang dideklarasikan pada class yang sama dikenal dengan
+230,low_order,"Dari potongan program diatas, metode draw pada superclass shape ditulis kembali pada subclass sehingga menghasilkan output yang berbeda-beda. Cara ini dikenal dengan"
+231,low_order,"Agar output program diatas adalah ""kendaraanku beroda 2"" maka apa yang harus dilakukan?"
+232,low_order,Apa yang harus dilakukan agar program diatas dapat di compile dengan benar?
+233,low_order,Program diatas jika dijalankan eror. Apakah penyebab program tersebut eror?
+234,low_order,Ganti keywords dengan tepat agar identifier warna hanya dapat diakses oleh kelas mobil dan kelas keturunan dari mobil
+235,low_order,"Terjadi kesalahan jika program diatas di compile, apakah penyebab eror tersebut?"
+236,low_order,"Ketika kelas mengimplementasikan interface, apa yang harus dilakukan oleh class tersebut?"
+237,low_order,"Program diatas jika dijalankan eror, pilih jawaban yang benar untuk memperbaiki eror pada program tersebut"
+238,low_order,Manakah struktur yang tepat untuk mendefinisikan class abstract dalam bahasa Java
+239,low_order,"Untuk menyatakan bahwa suatu class mengimplementasikan dari class interface lain, maka dapat menggunakan kata kunci"
+240,low_order,Services yang dijalankan oleh suatu Java Application Server khususnya untuk Services yang compliance dengan Servlet dan JSP adalah
+241,low_order,Apakah kepanjangan dari JDBC?
+242,low_order,Untuk mengeksekusi perintah SQL INSERT fungsi dalam aplikasi Java yang cocok adalah: 
+243,low_order,Berikut ini manakah yang merupakan pernyataan yang salah mengenai perbandingan antara JSP dan Sevlet:
+244,low_order,"Jika objek Statements mengeksekusi sebuah perintah SQL dengan menggunakan fungsi executeUpdate, maka hasil keluaran/return value dari fungsi tersebut adalah"
+245,low_order,Statement berikut ini manakah yang merupakan pernyataan yang salah: 
+246,low_order,"JSP mendukung tiga comment style, kecuali:"
+247,low_order,Tipe Statement manakah yang dapat mengeksekusi query berparameter?
+248,low_order,Kode JSP berikut yang disisipkan di dalam kode html  dan yang berfungsi menutup ekspresi Java yang akan dijalankan pada saat Run time adalah:
+249,low_order,Yang termasuk dalam komponen skrip JSP adalah
+250,low_order,"Predefined tag yang digunakan untuk memasukkan file/page lain (""hello.jsp"") yaitu:"
+251,low_order,Perintah session di JSP yang TIDAK benar:
+252,low_order,Cookie 'kue' dapat dihapus dengan memanggil metode
+253,low_order,Apakah yang membatasi komentar JSP?
+254,low_order,"Komponen kunci JSP yang memungkinkan programmer menyisipkan Java yang berinteraksi dengan komponen-komponen dalam JSP untuk melaksanakan pemrosesan request, adalah: "
+255,low_order,"Jika seseorang mengunjungi suatu situs, ia mungkin akan mengunjungi beberapa page yang melakukan beberapa aksi dan membutuhkan autentikasi. Fungsi dan JSP yang harus digunakan adalah:"
+256,high_order,Tuliskan perintah untuk menemukan indeks istilah pertama dalam deret Fibonacci yang berisi 500 digit
+257,low_order,Berikan contoh dari web container?
+258,low_order,"Standard actions JSP yang digunakan bersama-sama  dengan action include, forward, dan plugin untuk menypesifikasikan pasangan nama/nilai tambahan dari informasi-informasi yang  digunakan oleh actions tersebut, adalah"
+259,low_order,Perhatikan code berikut: Maka user tiga yang mengakses Code ini akan mendapat output: 
+260,high_order,Perhatikan bagian program dengan cekln.jsp berikut untuk mengecek username dan password dari data Base. Isilah Bagian yang bernomor dengan statement/code yang sesuai:
+261,high_order,"Gunakanlah salah satu tabel utama dalam tugas besar Anda. Buatlah program JSP Page yang menampilkan semua isi data tabel tersebut. Dengan ketentuan: Panjang kolom setiap data, harus sesuai dengan definisinya, kolom pertama diisi dengan nomor urut data."
+262,high_order,Apa perintah untuk mencari angka positif terkecil yang secara merata dapat dibagi oleh semua angka dari 1 hingga 30.
+263,high_order,Tuliskan perintah untuk membuat histogram dari daftar bilangan bulat yang diberikan.
+264,high_order,"Tuliskan penjelasan tugas besar Anda, apa yang bisa dilakukan program Anda?"
+265,high_order,gambarkan class diagram selengkap yang kamu bisa dari tugas kamu
+266,high_order,"pilih salah satu fungsionalitas penting dari tugas besar Anda, jelaskan bagaimana obyek2 pada tugas Anda berkolaborasi dengan menunjukkan bagaimana metode(s) dari sebuah objek minta bantuan metode dari obyek lainnya"
+267,high_order,tuliskan kode Java dari sebuah metode terpenting dari tugas besar anda
+268,high_order,Tuliskan perintah untuk menggabungkan semua elemen dalam daftar menjadi string dan mengembalikannya
+269,high_order,"ada tiga kelas remoteController dan remoteTV (berisi man metode) menstimulasi bagaimana sebuah obyek remote TV berkolaborasi dengan dua obyek TV. Di sini main metode akan membuat dua obyek TV dengan dua merek, lalu mengerjakan hal tak penting seperti memati/hidupkan TV menggunakan obyek remote kontrol. isi kotak bernomor dengan pilihan jawaban yang sesuai"
+270,high_order,"Bagaimana cara mendapatkan string yang terbuat dari 2 karakter pertama dan 2 karakter terakhir dari string yang diberikan. Jika panjang string kurang dari 2, kembalilah sebagai ganti string kosong"
+271,high_order,Bagaimana cara untuk mencetak semua angka genap dari daftar angka yang diberikan dalam urutan yang sama dan hentikan pencetakan jika ada angka yang muncul setelah 237 dalam urutan.
+272,high_order,Tuliskan perintah yang akan menerima alas dan tinggi segitiga dan menghitung luasnya
+273,high_order,"Buatlah program yang dapat menghitung nilai saat memasukan nilai dari jumlah pokok tertentu, suku bunga, dan tahun."
+274,high_order,"Tuliskan perintah yang dapat membuat pola berikut, menggunakan nested for loop"
+275,high_order,"Tulis sebuah program Java lengkap, untuk menghitung luas persegi panjang. Program akan bertanya pada user, nilai panjang dan lebar dalam bentuk float. Lalu program akan menghitung dan mencetak luas persegi panjang dalam bentuk pecahan atau bertipe float."
+276,high_order,"Jelaskan program ""misteri"" berikut ini, apa yang akan dicetak, jika diberi sebuah input nilai tertentu. Tuliskan apa yang dicetak jika diberi input 5 dan diberi input 3."
+277,high_order,"Buat sebuah program yang akan bertanya nilai Anda berapa, lalu program akan memberi nilai grade Anda. Dengan aturan, di atas 80, nilai A, Antara 70-79 nilai B, Antara  50-69 nilai C, Antara 40-49 nilai D, Di bawah 40 nilai E."
+278,low_order,"Data model adalah suatu konsep yang menggambarkan, kecuali"
+279,low_order,Simbol garis ganda pada ER model menunjukkan 
+280,low_order,"Mapping ERD relasi 1-1 ke relasional data Base bisa dilakukan dengan cara berikut, kecuali"
+281,low_order,"Salah satu keuntungan penggunaan data Base adalah independensi antara program dan data, yang dimaksud adalah:"
+282,low_order,"Model data yang memanfaatkan beberapa notasi untuk menggambarkan dalam hal entitas dan relationship yang digambarkan oleh data, disebut"
+283,low_order,"Salah satu komponen dari Entity Relationship Diagram (ERD) dengan definisi sebagai berikut. Kelas dari orang, tempat, objek, kejadian, atau konsep, yang kita butuhkan untuk menangkap dan menyimpan data biasanya digambarkan dengan bentuk kotak, disebut"
+284,low_order,"Properti atau karakteristik dari suatu entitas biasanya digambarkan bentuk oval, disebut"
+285,low_order,"Key adalah suatu atribut, atau grup dari atribut yang menggunakan sebuah nilai untuk untuk setiap instansiasi entitas. Ini disebut juga identifier. Candidate key yang akan digunakan secara unik mengidentifikasi intansiasi entitas tunggal disebut"
+286,low_order,Perhatikan ER diagram berikut: cara membaca kekekangan kardinalitas (cardinality constraint maksimum dari arah kanan (entitas TANGGUNGAN) ke arah kiri (entitas PEGAWAI) adalah
+287,low_order,"Salah satu tipe relational integrity constraint yang meliputi dua relasi yang digunakan saling bersilangan mereferensi kepada tupel-tupel yang ada, disebut"
+288,low_order,Menghilangkan parsial defendency merupakan kaidah atau rule pada normalisasi tahap
+289,low_order,"Data yang diorganisasikan, disimpan, diolah, mempunyai arti tertentu dan dapat dipakai untuk proses pengambilan keputusan disebut"
+290,low_order,"Berikut ini merupakan elemen dari sebuah sistem basis data, kecuali"
+291,low_order,"Nama (First_Name, Last_Name) , Alamat (Street, Number, City), merupakan contoh atribut"
+292,low_order,Usia merupakan contoh dari atribut
+293,low_order,Relasi ER Diagram di bawah ini memiliki tipe relasi
+294,low_order,"Objek riil yang dapat dibedakan satu sama lain, dalam model ER disebut"
+295,low_order,"Salah satu operasi terhadap relasi yang bertujuan untuk mengubah data, yakni menghapus data lama dan diganti dengan data baru secara sekaligus terhadap tupel, disebut"
+296,high_order,Tuliskan perintah yang dapat menerima kata yang ditulis oleh pengguna dan dapat membalikannya
+297,high_order,Tuliskan perintah untuk mencetak setiap item dan jenisnya dari daftar berikut.
+298,high_order,Buat model diagram ER yang lengkap sesuai deskripsi dan asumsi sistem
+299,high_order,Buat skema relasi (Model Relational) yang terbentuk berdasarkan model ER yang ada
+300,high_order,"Buatlah sebuah program yang meminta memasukkan n integer, program kemudian mencetak nilai minimumnya, mencetak nilai maksimumnya, mencetak rata-ratanya. Perhatikan nilai rata-rata bersifat pecahan (pakai tipe float atau double)"
